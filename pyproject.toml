@@ -1,7 +1,7 @@
 [project]
-name = "mymcp"
+name = "weather-mcp-server"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Model Context Protocol (MCP) server that provides real-time weather alerts and forecasts for US locations using the National Weather Service API."
 requires-python = ">=3.13"
 dependencies = [
     "fastmcp>=2.11.0",

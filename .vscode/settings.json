@@ -1,6 +1,6 @@
 {
     "chat.mcp.serverSampling": {
-        "MyMCP/.vscode/mcp.json: weather-mcp-server": {
+        "weather-mcp-server/.vscode/mcp.json: weather-mcp-server": {
             "allowedModels": [
                 "github.copilot-chat/gpt-4.1"
             ]
