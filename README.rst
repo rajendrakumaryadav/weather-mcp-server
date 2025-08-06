@@ -65,6 +65,13 @@ Below are visual guides to help you get started with the Weather MCP Server:
 
    This image demonstrates the basic usage flow for interacting with the server, including sending requests and receiving weather data.
 
+.. figure:: resources/setup-in-pycharm.png
+   :alt: MCP Server Setup in PyCharm
+   :width: 600
+
+   **MCP Server Setup in PyCharm**
+
+   This image shows how to set up the MCP server in the PyCharm IDE.
 
 Usage
 -----
