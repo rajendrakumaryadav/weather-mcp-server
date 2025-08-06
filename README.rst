@@ -143,4 +143,4 @@ Acknowledgments
 - `fastmcp <https://github.com/robocorp/fastmcp>`_
 - `httpx <https://www.python-httpx.org/>`_
 - `MCP Protocol <https://github.com/robocorp/model-context-protocol>`_
-- `Build an MCP Server <https://modelcontextprotocol.io/quickstart/server>` _
+- `Build an MCP Server <https://modelcontextprotocol.io/quickstart/server>`_
