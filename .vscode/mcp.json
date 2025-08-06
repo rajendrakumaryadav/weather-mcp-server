@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"weather-mcp-server": {
+			"type": "stdio",
+			"command": "uv",
+			"args": [
+				"run",
+				"main.py"
+			]
+		}
+	},
+	"inputs": []
+}
