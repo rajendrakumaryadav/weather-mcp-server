@@ -90,24 +90,6 @@ Available Tools
 - ``root()``
   - Describe the server and its available tools.
 
-Example Usage
-~~~~~~~~~~~~~
-
-Get Weather Alerts for California
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. code-block:: python
-
-   from mcp.client import MCPClient
-   client = MCPClient("weather-mcp-server")
-   print(client.get_alerts("CA"))
-
-Get Forecast for San Francisco
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. code-block:: python
-
-   print(client.get_forecast(37.7749, -122.4194))
 
 Project Structure
 -----------------
