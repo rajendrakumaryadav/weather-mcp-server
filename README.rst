@@ -140,7 +140,7 @@ Acknowledgments
 ---------------
 
 - `National Weather Service API <https://www.weather.gov/documentation/services-web-api>`_
-- `fastmcp <https://github.com/robocorp/fastmcp>`_
+- `fastmcp <https://gofastmcp.com/getting-started/welcome>`_
 - `httpx <https://www.python-httpx.org/>`_
-- `MCP Protocol <https://github.com/robocorp/model-context-protocol>`_
+- `MCP Protocol <https://modelcontextprotocol.io/overview>`_
 - `Build an MCP Server <https://modelcontextprotocol.io/quickstart/server>`_
