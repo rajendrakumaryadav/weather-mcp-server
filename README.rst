@@ -134,25 +134,10 @@ Walkthrough: How to Use and Configure
 
 Below are visual guides to help you get started with the Weather MCP Server:
 
-.. figure:: resources/how-to-use.png
-   :alt: How to use the Weather MCP Server
+.. figure:: resources/preview-mcp-client.png
+   :alt: Connecting to the Weather MCP Server with MCP Client
    :width: 600
 
-   **How to use the Weather MCP Server**
-   
-   This image shows how to configure the MCP server in your environment, such as setting up the server in VS Code or using the provided configuration files.
-
-.. figure:: resources/mcp-server.png
-   :alt: MCP Server Configuration Example
-   :width: 600
-
-   **MCP Server Configuration Example**
-
-   This image demonstrates the basic usage flow for interacting with the server, including sending requests and receiving weather data.
-
-.. figure:: resources/setup-in-pycharm.png
-   :alt: MCP Server Setup in PyCharm
-   :width: 600
 
    **MCP Server Setup in PyCharm**
 
