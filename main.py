@@ -15,7 +15,7 @@ Tools:
 """
 
 
-mcp = FastMCP("weather")
+mcp = FastMCP("weather", host="127.0.0.1", port=8000)
 
 
 @mcp.tool()
@@ -128,4 +128,4 @@ Forecast: {period["detailedForecast"]}
 
 
 if __name__ == "__main__":
-    mcp.run(transport="stdio")
+    mcp.run(transport="streamable-http")
